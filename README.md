@@ -1,4 +1,4 @@
-# MudBlazzorDemo
+#BlazzorDemo
 
 # Blazor and WebAssembly
 
