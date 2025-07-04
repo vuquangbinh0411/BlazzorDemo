@@ -9,25 +9,27 @@
 
 ###  🧭 Main Chapters Overview
 
-#### Chapter	Title	Main Topics
-1.   Starting Your Blazor Journey	Why choose Blazor, hosting models, component concepts
-2.   Your First Blazor App	Setup, project structure, running the app, writing your first components
-3.   Working with the Component Model	Component structure, lifecycle, parent-child relations, styling with CSS
-4.   Routing	Defining pages, navigation, route parameters, query strings
-5.   Forms and Validation – Part 1	EditForm basics, input controls, FluentValidation integration
-6.   Forms and Validation – Part 2	Custom input controls, file upload, editing form data
-7.   Creating Reusable Components	Templated components, generics, sharing via Razor Class Library
-8.   Integrating JavaScript Libraries	JavaScript interop: calling JS from C#, calling C# from JS, RouteMap component
-9.   Securing Blazor Applications	Auth0 integration, UI protection, API authorization
-10.  State Management	Memory and localStorage state, designing reusable AppState
-11.  Testing Your Blazor App	Testing components with bUnit: markup, events, JS interop, and authorization
-    
+| Chapter | Title                                | Key Topics                                                                 |
+|---------|--------------------------------------|----------------------------------------------------------------------------|
+| 1       | Starting Your Blazor Journey         | Why use Blazor, hosting models, component fundamentals                    |
+| 2       | Your First Blazor App                | Setup, app structure, basic component creation                            |
+| 3       | Working with the Component Model     | Component structure, lifecycle methods, parent-child relationships, CSS   |
+| 4       | Routing                              | Page routing, navigation, route parameters, query strings                 |
+| 5       | Forms & Validation – Part 1          | EditForm basics, input components, FluentValidation setup                 |
+| 6       | Forms & Validation – Part 2          | Custom input, file upload, editing forms                                  |
+| 7       | Building Reusable Components         | Templated components, generics, Razor Class Library sharing               |
+| 8       | Integrating JavaScript Libraries     | JS interop, C#↔JS calls, RouteMap component                               |
+| 9       | Securing Blazor Applications         | Auth0 integration, role-based UI/API protection                           |
+| 10      | State Management                     | In-memory store, localStorage integration, AppState design                |
+| 11      | Testing Blazor Applications          | bUnit testing: markup, events, auth, JS interop                           |
+
 ###  📦 Appendices
 
-#### Appendix	Content
+| Appendix | Description                                               |
+|----------|-----------------------------------------------------------|
+| A        | Adding ASP.NET Core Web API to a Blazor WebAssembly app  |
+| B        | Refactoring app to use API instead of static `.json`     |
 
-+ A.	Adding ASP.NET Core Web API to Blazor WebAssembly app
-+ B.	Refactoring entire app to use real API instead of .json
 
 
 ### Pre-requisites
