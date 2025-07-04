@@ -5,17 +5,15 @@
 
 ## Presentation
 
-🎦 You can download the related PowerPoint presentation [here](https://github.com/chrissainty/blazor-in-action/blob/main/.DS_Store).
+🎦 You can download the related ![Blazor_Action](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5z-T2zYeNGAf0GOF0T_9w1VdekqWRf5MssauaUGj6JA3jTjCC)
 
 
 ### Pre-requisites
 
 The following should be installed for the demos to work:
 
-* [emscripten](https://emscripten.org/docs/getting_started/downloads.html) for the `asm.js` and WebAssembly demos
-* [http-service (node.js)](https://www.npmjs.com/package/http-server) to serve the "primes" example site (any simple web server will do)
-* [Blazor](https://jlik.me/fhs) has full instructions for installing and using Blazor.
-
+- .NET 6 SDK
+- Visual Studio 2022 or Visual Studio Code 
 
 ### Get Started
 
