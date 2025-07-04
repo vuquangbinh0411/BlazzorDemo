@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Binh\\Source\\repos\\MudBlazzorDemo\\ComponentLifecycle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD88ED5B-4A57-46F5-84E4-7D7E16C15AF5}|ComponentLifecycle.csproj|c:\\users\\binh\\source\\repos\\mudblazzordemo\\componentlifecycle\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD88ED5B-4A57-46F5-84E4-7D7E16C15AF5}|ComponentLifecycle.csproj|solutionrelative:shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD88ED5B-4A57-46F5-84E4-7D7E16C15AF5}|ComponentLifecycle.csproj|c:\\users\\binh\\source\\repos\\mudblazzordemo\\componentlifecycle\\pages\\greeting.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD88ED5B-4A57-46F5-84E4-7D7E16C15AF5}|ComponentLifecycle.csproj|solutionrelative:pages\\greeting.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Binh\\Source\\repos\\MudBlazzorDemo\\ComponentLifecycle\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Binh\\Source\\repos\\MudBlazzorDemo\\ComponentLifecycle\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T09:55:01.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Greeting.razor",
+              "DocumentMoniker": "C:\\Users\\Binh\\Source\\repos\\MudBlazzorDemo\\ComponentLifecycle\\Pages\\Greeting.razor",
+              "RelativeDocumentMoniker": "Pages\\Greeting.razor",
+              "ToolTip": "C:\\Users\\Binh\\Source\\repos\\MudBlazzorDemo\\ComponentLifecycle\\Pages\\Greeting.razor",
+              "RelativeToolTip": "Pages\\Greeting.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T09:54:53.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
