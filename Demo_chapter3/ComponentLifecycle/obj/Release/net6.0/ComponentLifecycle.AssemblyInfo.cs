@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ComponentLifecycle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+870f16e1f384dab9214c1aaed8157acb5037db29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed9fa422433330d2a1746ee93ca59dbbc86efbdb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ComponentLifecycle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ComponentLifecycle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

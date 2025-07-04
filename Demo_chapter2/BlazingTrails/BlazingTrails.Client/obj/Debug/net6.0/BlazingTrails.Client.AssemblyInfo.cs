@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazingTrails.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+870f16e1f384dab9214c1aaed8157acb5037db29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed9fa422433330d2a1746ee93ca59dbbc86efbdb")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazingTrails.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazingTrails.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

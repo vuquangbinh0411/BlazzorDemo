@@ -13,37 +13,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = BlazingTrails.Client
 build_property.RootNamespace = BlazingTrails.Client
-build_property.ProjectDir = C:\Users\Binh\Source\repos\MudBlazzorDemo\Demo_chapter3\BlazingTrails\BlazingTrails.Client\
+build_property.ProjectDir = C:\Users\Binh\Source\repos\BlazzorDemo\Demo_chapter3\BlazingTrails\BlazingTrails.Client\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Binh\Source\repos\MudBlazzorDemo\Demo_chapter3\BlazingTrails\BlazingTrails.Client
+build_property.MSBuildProjectDirectory = C:\Users\Binh\Source\repos\BlazzorDemo\Demo_chapter3\BlazingTrails\BlazingTrails.Client
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 6.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Binh/Source/repos/MudBlazzorDemo/Demo_chapter3/BlazingTrails/BlazingTrails.Client/App.razor]
+[C:/Users/Binh/Source/repos/BlazzorDemo/Demo_chapter3/BlazingTrails/BlazingTrails.Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Binh/Source/repos/MudBlazzorDemo/Demo_chapter3/BlazingTrails/BlazingTrails.Client/Features/Home/HomePage.razor]
+[C:/Users/Binh/Source/repos/BlazzorDemo/Demo_chapter3/BlazingTrails/BlazingTrails.Client/Features/Home/HomePage.razor]
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSG9tZVxIb21lUGFnZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Binh/Source/repos/MudBlazzorDemo/Demo_chapter3/BlazingTrails/BlazingTrails.Client/Features/Home/TrailCard.razor]
+[C:/Users/Binh/Source/repos/BlazzorDemo/Demo_chapter3/BlazingTrails/BlazingTrails.Client/Features/Home/TrailCard.razor]
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSG9tZVxUcmFpbENhcmQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Binh/Source/repos/MudBlazzorDemo/Demo_chapter3/BlazingTrails/BlazingTrails.Client/Features/Layout/Header.razor]
+[C:/Users/Binh/Source/repos/BlazzorDemo/Demo_chapter3/BlazingTrails/BlazingTrails.Client/Features/Layout/Header.razor]
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcTGF5b3V0XEhlYWRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Binh/Source/repos/MudBlazzorDemo/Demo_chapter3/BlazingTrails/BlazingTrails.Client/Features/Layout/MainLayout.razor]
+[C:/Users/Binh/Source/repos/BlazzorDemo/Demo_chapter3/BlazingTrails/BlazingTrails.Client/Features/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcTGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Binh/Source/repos/MudBlazzorDemo/Demo_chapter3/BlazingTrails/BlazingTrails.Client/_Imports.razor]
+[C:/Users/Binh/Source/repos/BlazzorDemo/Demo_chapter3/BlazingTrails/BlazingTrails.Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
