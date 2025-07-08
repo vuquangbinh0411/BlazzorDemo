@@ -1,0 +1,56 @@
+﻿@page "/"
+@inject HttpClient Http
+@inject NavigationManager NavManager
+
+<PageTitle>Blazing Trails</PageTitle>
+
+@if (_trails == null)
+{
+    <p>Loading trails...</p>
+}
+else
+{
+    <!-- 🔗 Nút chuyển trang Add Trail -->
+    <div class="mb-3 d-flex justify-content-end">
+        <button class="btn btn-success" @onclick="GoToAddTrail">
+            ➕ Add Trail
+        </button>
+    </div>
+
+    <!-- 📄 Hiển thị chi tiết trail đã chọn -->
+    <TrailDetails Trail="_selectedTrail" />
+
+    <!-- 🔍 Thanh tìm kiếm trail -->
+    <TrailSearch />
+
+    <!-- 🗂️ Danh sách trail -->
+    <div class="grid">
+        @foreach (var trail in _trails)
+        {
+            <TrailCard Trail="trail" OnSelected="HandleTrailSelected" />
+        }
+    </div>
+}
+
+@code {
+    private IEnumerable<Trail>? _trails;
+    private Trail? _selectedTrail;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            _trails = await Http.GetFromJsonAsync<IEnumerable<Trail>>("trails/trail-data.json");
+        }
+        catch (HttpRequestException ex)
+        {
+            Console.WriteLine($"Error loading trail data: {ex.Message}");
+        }
+    }
+
+    private void HandleTrailSelected(Trail trail)
+        => _selectedTrail = trail;
+
+    private void GoToAddTrail()
+        => NavManager.NavigateTo("/add-trail");
+}

@@ -1,0 +1,1 @@
+C:\Users\Binh\Source\repos\BlazzorDemo\Demo_chapter5\BlazingTrails\BlazingTrails.Client\obj\Debug\net6.0\staticwebassets.build.json

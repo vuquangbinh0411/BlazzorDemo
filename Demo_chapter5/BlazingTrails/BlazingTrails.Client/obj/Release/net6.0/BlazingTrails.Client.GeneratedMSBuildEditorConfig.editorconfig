@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlazingTrails.Client
+build_property.RootNamespace = BlazingTrails.Client
+build_property.ProjectDir = C:\Users\Binh\Source\repos\BlazzorDemo\Demo_chapter5\BlazingTrails\BlazingTrails.Client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Binh\Source\repos\BlazzorDemo\Demo_chapter5\BlazingTrails\BlazingTrails.Client
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Binh/Source/repos/BlazzorDemo/Demo_chapter5/BlazingTrails/BlazingTrails.Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Source/repos/BlazzorDemo/Demo_chapter5/BlazingTrails/BlazingTrails.Client/Features/Home/SearchPage.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSG9tZVxTZWFyY2hQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Source/repos/BlazzorDemo/Demo_chapter5/BlazingTrails/BlazingTrails.Client/Features/Home/TrailCard.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSG9tZVxUcmFpbENhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Source/repos/BlazzorDemo/Demo_chapter5/BlazingTrails/BlazingTrails.Client/Features/Layout/Header.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcTGF5b3V0XEhlYWRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Source/repos/BlazzorDemo/Demo_chapter5/BlazingTrails/BlazingTrails.Client/Features/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcTGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Source/repos/BlazzorDemo/Demo_chapter5/BlazingTrails/BlazingTrails.Client/Features/ManageTrails/AddTrailPage.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcTWFuYWdlVHJhaWxzXEFkZFRyYWlsUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Source/repos/BlazzorDemo/Demo_chapter5/BlazingTrails/BlazingTrails.Client/Features/ManageTrails/FormFieldSet.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcTWFuYWdlVHJhaWxzXEZvcm1GaWVsZFNldC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Source/repos/BlazzorDemo/Demo_chapter5/BlazingTrails/BlazingTrails.Client/Features/ManageTrails/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcTWFuYWdlVHJhaWxzXF9JbXBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Source/repos/BlazzorDemo/Demo_chapter5/BlazingTrails/BlazingTrails.Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Source/repos/BlazzorDemo/Demo_chapter5/BlazingTrails/BlazingTrails.Client/Features/Home/HomePage.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSG9tZVxIb21lUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-3tqjl5eq8f
+
+[C:/Users/Binh/Source/repos/BlazzorDemo/Demo_chapter5/BlazingTrails/BlazingTrails.Client/Features/Home/SearchFilter.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSG9tZVxTZWFyY2hGaWx0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-vca69nmj2w
+
+[C:/Users/Binh/Source/repos/BlazzorDemo/Demo_chapter5/BlazingTrails/BlazingTrails.Client/Features/Home/TrailDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSG9tZVxUcmFpbERldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-4spzlg73jk
+
+[C:/Users/Binh/Source/repos/BlazzorDemo/Demo_chapter5/BlazingTrails/BlazingTrails.Client/Features/Home/TrailSearch.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSG9tZVxUcmFpbFNlYXJjaC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-pyjuv8hvkd
+
+[C:/Users/Binh/Source/repos/BlazzorDemo/Demo_chapter5/BlazingTrails/BlazingTrails.Client/Features/ManageTrails/FormSection.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcTWFuYWdlVHJhaWxzXEZvcm1TZWN0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-bdyxdkm47e
