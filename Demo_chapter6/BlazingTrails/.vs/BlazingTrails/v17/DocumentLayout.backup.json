@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Binh\\Source\\repos\\BlazzorDemo\\Demo_chapter6\\BlazingTrails\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F544968-F5C0-478F-9EC7-B086DD26D040}|BlazingTrails.Api\\BlazingTrails.Api.csproj|c:\\users\\binh\\source\\repos\\blazzordemo\\demo_chapter6\\blazingtrails\\blazingtrails.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F544968-F5C0-478F-9EC7-B086DD26D040}|BlazingTrails.Api\\BlazingTrails.Api.csproj|solutionrelative:blazingtrails.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F544968-F5C0-478F-9EC7-B086DD26D040}|BlazingTrails.Api\\BlazingTrails.Api.csproj|c:\\users\\binh\\source\\repos\\blazzordemo\\demo_chapter6\\blazingtrails\\blazingtrails.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F544968-F5C0-478F-9EC7-B086DD26D040}|BlazingTrails.Api\\BlazingTrails.Api.csproj|solutionrelative:blazingtrails.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Binh\\Source\\repos\\BlazzorDemo\\Demo_chapter6\\BlazingTrails\\BlazingTrails.Api\\Program.cs",
+              "RelativeDocumentMoniker": "BlazingTrails.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Binh\\Source\\repos\\BlazzorDemo\\Demo_chapter6\\BlazingTrails\\BlazingTrails.Api\\Program.cs",
+              "RelativeToolTip": "BlazingTrails.Api\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T02:19:09.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Binh\\Source\\repos\\BlazzorDemo\\Demo_chapter6\\BlazingTrails\\BlazingTrails.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "BlazingTrails.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Binh\\Source\\repos\\BlazzorDemo\\Demo_chapter6\\BlazingTrails\\BlazingTrails.Api\\appsettings.json",
+              "RelativeToolTip": "BlazingTrails.Api\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T02:22:19.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

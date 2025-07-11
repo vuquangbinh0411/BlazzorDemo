@@ -1,0 +1,132 @@
+[
+  {
+    "ContainingType": "BlazingTrails.Api.Features.ManageTrails.AddTrailEndpoint",
+    "Method": "HandleAsync",
+    "RelativePath": "api/trails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "BlazingTrails.Shared.Features.ManageTrails.AddTrail.AddTrailRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingTrails.Api.Features.ManageTrails.EditTrail.EditTrailEndpoint",
+    "Method": "HandleAsync",
+    "RelativePath": "api/trails",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "BlazingTrails.Shared.Features.ManageTrails.EditTrail.EditTrailRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingTrails.Api.Features.Home.Shared.GetTrailsEndpoint",
+    "Method": "HandleAsync",
+    "RelativePath": "api/trails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trailId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BlazingTrails.Shared.Features.Home.Shared.GetTrailsRequest\u002BResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingTrails.Api.Features.ManageTrails.EditTrail.GetTrailEndpoint",
+    "Method": "HandleAsync",
+    "RelativePath": "api/trails/{trailId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trailId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BlazingTrails.Shared.Features.ManageTrails.EditTrail.GetTrailRequest\u002BResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BlazingTrails.Api.Features.ManageTrails.Shared.UploadTrailImageEndpoint",
+    "Method": "HandleAsync",
+    "RelativePath": "api/trails/{trailId}/images",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trailId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

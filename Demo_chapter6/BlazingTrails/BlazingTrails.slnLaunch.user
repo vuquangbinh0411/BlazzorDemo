@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "BlazingTrails.Client\\BlazingTrails.Client.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "BlazingTrails.Api\\BlazingTrails.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

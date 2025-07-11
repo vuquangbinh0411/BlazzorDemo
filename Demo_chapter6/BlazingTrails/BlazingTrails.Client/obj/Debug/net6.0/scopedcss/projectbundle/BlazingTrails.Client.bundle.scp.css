@@ -1,0 +1,122 @@
+/* /Features/Home/HomePage.razor.rz.scp.css */
+.no-trails[b-3tqjl5eq8f] {
+  text-align: center;
+  margin-top: 100px;
+}
+.no-trails svg[b-3tqjl5eq8f] {
+  width: 200px;
+  color: #dee2e6;
+  margin-bottom: 30px;
+}
+
+/*# sourceMappingURL=HomePage.razor.css.map */
+/* /Features/Home/Search/SearchFilter.razor.rz.scp.css */
+.filters[b-5glurppmc8] {
+  display: flex;
+  margin-bottom: 20px;
+  align-items: baseline;
+  justify-content: flex-end;
+}
+.filters label[b-5glurppmc8] {
+  text-transform: uppercase;
+  margin-right: 10px;
+}
+.filters input[b-5glurppmc8] {
+  margin-right: 20px;
+  width: 100px;
+}
+.filters button:first-of-type[b-5glurppmc8] {
+  margin-right: 10px;
+}
+
+/*# sourceMappingURL=SearchFilter.razor.css.map */
+/* /Features/Home/Shared/TrailDetails.razor.rz.scp.css */
+.drawer-mask[b-gm8rb0kegx] {
+  visibility: hidden;
+  position: fixed;
+  overflow: hidden;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  z-index: 99;
+  background-color: #000000;
+  opacity: 0;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+.drawer-wrapper.slide .drawer-mask[b-gm8rb0kegx] {
+  opacity: 0.5;
+  visibility: visible;
+}
+.drawer-wrapper.slide .drawer[b-gm8rb0kegx] {
+  transform: translateX(0);
+}
+
+.drawer[b-gm8rb0kegx] {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 35em;
+  overflow-y: auto;
+  overflow-x: hidden;
+  background-color: white;
+  border-left: 0.063em solid gray;
+  z-index: 100;
+  transform: translateX(110%);
+  transition: transform 0.3s ease, width 0.3s ease;
+}
+
+.drawer-content[b-gm8rb0kegx] {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+.trail-details[b-gm8rb0kegx] {
+  padding: 20px;
+}
+
+.drawer-controls[b-gm8rb0kegx] {
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+/*# sourceMappingURL=TrailDetails.razor.css.map */
+/* /Features/Home/TrailSearch.razor.rz.scp.css */
+.jumbotron[b-pyjuv8hvkd] {
+  background: none;
+}
+.jumbotron input[b-pyjuv8hvkd] {
+  border: 2px solid var(--brand);
+}
+
+/*# sourceMappingURL=TrailSearch.razor.css.map */
+/* /Features/ManageTrails/Shared/FormSection.razor.rz.scp.css */
+.card-brand[b-06dg9kese3] {
+  border-top: 4px solid var(--brand);
+}
+
+/*# sourceMappingURL=FormSection.razor.css.map */
+/* /Features/ManageTrails/Shared/InputTime.razor.rz.scp.css */
+.input-time[b-qhc4x5ubmr] {
+  display: flex;
+  flex-direction: row;
+}
+.input-time div[b-qhc4x5ubmr] {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
+.input-time div input[b-qhc4x5ubmr] {
+  width: 90px;
+  margin-right: 10px;
+}
+.input-time div label[b-qhc4x5ubmr] {
+  margin-bottom: 0;
+}
+
+/*# sourceMappingURL=InputTime.razor.css.map */
