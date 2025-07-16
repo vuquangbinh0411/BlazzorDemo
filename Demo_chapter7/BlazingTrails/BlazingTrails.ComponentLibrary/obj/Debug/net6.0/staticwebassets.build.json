@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "uGbIWpOrXT2sZEpS3YnHBCXaQdHUiKrb9LuiKQeylZI=",
+  "Source": "BlazingTrails.ComponentLibrary",
+  "BasePath": "_content/BlazingTrails.ComponentLibrary",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Binh\\Source\\repos\\BlazzorDemo\\Demo_chapter7\\BlazingTrails\\BlazingTrails.ComponentLibrary\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazingTrails.ComponentLibrary.styles.css",
+      "SourceId": "BlazingTrails.ComponentLibrary",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Binh\\Source\\repos\\BlazzorDemo\\Demo_chapter7\\BlazingTrails\\BlazingTrails.ComponentLibrary\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/BlazingTrails.ComponentLibrary",
+      "RelativePath": "BlazingTrails.ComponentLibrary.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Binh\\Source\\repos\\BlazzorDemo\\Demo_chapter7\\BlazingTrails\\BlazingTrails.ComponentLibrary\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazingTrails.ComponentLibrary.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Binh\\Source\\repos\\BlazzorDemo\\Demo_chapter7\\BlazingTrails\\BlazingTrails.ComponentLibrary\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazingTrails.ComponentLibrary.bundle.scp.css",
+      "SourceId": "BlazingTrails.ComponentLibrary",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Binh\\Source\\repos\\BlazzorDemo\\Demo_chapter7\\BlazingTrails\\BlazingTrails.ComponentLibrary\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/BlazingTrails.ComponentLibrary",
+      "RelativePath": "BlazingTrails.ComponentLibrary.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Binh\\Source\\repos\\BlazzorDemo\\Demo_chapter7\\BlazingTrails\\BlazingTrails.ComponentLibrary\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazingTrails.ComponentLibrary.bundle.scp.css"
+    }
+  ]
+}

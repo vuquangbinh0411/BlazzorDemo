@@ -1,0 +1,19 @@
+.filters[b-5glurppmc8] {
+  display: flex;
+  margin-bottom: 20px;
+  align-items: baseline;
+  justify-content: flex-end;
+}
+.filters label[b-5glurppmc8] {
+  text-transform: uppercase;
+  margin-right: 10px;
+}
+.filters input[b-5glurppmc8] {
+  margin-right: 20px;
+  width: 100px;
+}
+.filters button:first-of-type[b-5glurppmc8] {
+  margin-right: 10px;
+}
+
+/*# sourceMappingURL=SearchFilter.razor.css.map */

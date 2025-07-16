@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Binh\\Source\\repos\\BlazzorDemo\\Demo_chapter7\\BlazingTrails\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F04DFCB-FE98-4255-A3D8-D5274666603A}|BlazingTrails.Client\\BlazingTrails.Client.csproj|c:\\users\\binh\\source\\repos\\blazzordemo\\demo_chapter7\\blazingtrails\\blazingtrails.client\\features\\home\\search\\searchpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F04DFCB-FE98-4255-A3D8-D5274666603A}|BlazingTrails.Client\\BlazingTrails.Client.csproj|solutionrelative:blazingtrails.client\\features\\home\\search\\searchpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F04DFCB-FE98-4255-A3D8-D5274666603A}|BlazingTrails.Client\\BlazingTrails.Client.csproj|c:\\users\\binh\\source\\repos\\blazzordemo\\demo_chapter7\\blazingtrails\\blazingtrails.client\\features\\home\\search\\searchfilter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F04DFCB-FE98-4255-A3D8-D5274666603A}|BlazingTrails.Client\\BlazingTrails.Client.csproj|solutionrelative:blazingtrails.client\\features\\home\\search\\searchfilter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchPage.razor",
+              "DocumentMoniker": "C:\\Users\\Binh\\Source\\repos\\BlazzorDemo\\Demo_chapter7\\BlazingTrails\\BlazingTrails.Client\\Features\\Home\\Search\\SearchPage.razor",
+              "RelativeDocumentMoniker": "BlazingTrails.Client\\Features\\Home\\Search\\SearchPage.razor",
+              "ToolTip": "C:\\Users\\Binh\\Source\\repos\\BlazzorDemo\\Demo_chapter7\\BlazingTrails\\BlazingTrails.Client\\Features\\Home\\Search\\SearchPage.razor",
+              "RelativeToolTip": "BlazingTrails.Client\\Features\\Home\\Search\\SearchPage.razor",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T08:55:06.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchFilter.razor",
+              "DocumentMoniker": "C:\\Users\\Binh\\Source\\repos\\BlazzorDemo\\Demo_chapter7\\BlazingTrails\\BlazingTrails.Client\\Features\\Home\\Search\\SearchFilter.razor",
+              "RelativeDocumentMoniker": "BlazingTrails.Client\\Features\\Home\\Search\\SearchFilter.razor",
+              "ToolTip": "C:\\Users\\Binh\\Source\\repos\\BlazzorDemo\\Demo_chapter7\\BlazingTrails\\BlazingTrails.Client\\Features\\Home\\Search\\SearchFilter.razor",
+              "RelativeToolTip": "BlazingTrails.Client\\Features\\Home\\Search\\SearchFilter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T08:54:50.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
