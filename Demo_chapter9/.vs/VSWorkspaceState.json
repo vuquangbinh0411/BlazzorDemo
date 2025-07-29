@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BlazingTrails",
+    "\\BlazingTrails\\BlazingTrails.Api",
+    "\\BlazingTrails\\BlazingTrails.Api\\Features",
+    "\\BlazingTrails\\BlazingTrails.Api\\Features\\ManageTrails",
+    "\\BlazingTrails\\BlazingTrails.Api\\Features\\ManageTrails\\AddTrail"
+  ],
+  "SelectedNode": "\\BlazingTrails\\BlazingTrails.Api\\Features\\ManageTrails\\AddTrail\\AddTrailEndpoint.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "Hash": "THObxfsSuIArgEsJP2L/DJq2IBT4VTC/bTAp4oLJCSE=",
+  "Source": "BlazingTrails.ComponentLibrary",
+  "BasePath": "_content/BlazingTrails.ComponentLibrary",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Binh\\Source\\repos\\BlazzorDemo\\Demo_chapter9\\BlazingTrails\\BlazingTrails.ComponentLibrary\\Map\\RouteMap.razor.js",
+      "SourceId": "BlazingTrails.ComponentLibrary",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Binh\\Source\\repos\\BlazzorDemo\\Demo_chapter9\\BlazingTrails\\BlazingTrails.ComponentLibrary\\",
+      "BasePath": "_content/BlazingTrails.ComponentLibrary",
+      "RelativePath": "Map/RouteMap.razor.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "Map\\RouteMap.razor.js"
+    },
+    {
+      "Identity": "C:\\Users\\Binh\\Source\\repos\\BlazzorDemo\\Demo_chapter9\\BlazingTrails\\BlazingTrails.ComponentLibrary\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazingTrails.ComponentLibrary.styles.css",
+      "SourceId": "BlazingTrails.ComponentLibrary",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Binh\\Source\\repos\\BlazzorDemo\\Demo_chapter9\\BlazingTrails\\BlazingTrails.ComponentLibrary\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/BlazingTrails.ComponentLibrary",
+      "RelativePath": "BlazingTrails.ComponentLibrary.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Binh\\Source\\repos\\BlazzorDemo\\Demo_chapter9\\BlazingTrails\\BlazingTrails.ComponentLibrary\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazingTrails.ComponentLibrary.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Binh\\Source\\repos\\BlazzorDemo\\Demo_chapter9\\BlazingTrails\\BlazingTrails.ComponentLibrary\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazingTrails.ComponentLibrary.bundle.scp.css",
+      "SourceId": "BlazingTrails.ComponentLibrary",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Binh\\Source\\repos\\BlazzorDemo\\Demo_chapter9\\BlazingTrails\\BlazingTrails.ComponentLibrary\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/BlazingTrails.ComponentLibrary",
+      "RelativePath": "BlazingTrails.ComponentLibrary.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Binh\\Source\\repos\\BlazzorDemo\\Demo_chapter9\\BlazingTrails\\BlazingTrails.ComponentLibrary\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazingTrails.ComponentLibrary.bundle.scp.css"
+    }
+  ]
+}

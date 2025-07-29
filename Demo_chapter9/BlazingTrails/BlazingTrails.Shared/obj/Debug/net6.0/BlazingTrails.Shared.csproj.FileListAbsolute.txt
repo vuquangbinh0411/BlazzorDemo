@@ -1,0 +1,12 @@
+C:\Users\Binh\Source\repos\BlazzorDemo\Demo_chapter9\BlazingTrails\BlazingTrails.Shared\bin\Debug\net6.0\BlazingTrails.Shared.deps.json
+C:\Users\Binh\Source\repos\BlazzorDemo\Demo_chapter9\BlazingTrails\BlazingTrails.Shared\bin\Debug\net6.0\BlazingTrails.Shared.dll
+C:\Users\Binh\Source\repos\BlazzorDemo\Demo_chapter9\BlazingTrails\BlazingTrails.Shared\bin\Debug\net6.0\BlazingTrails.Shared.pdb
+C:\Users\Binh\Source\repos\BlazzorDemo\Demo_chapter9\BlazingTrails\BlazingTrails.Shared\obj\Debug\net6.0\BlazingTrails.Shared.csproj.AssemblyReference.cache
+C:\Users\Binh\Source\repos\BlazzorDemo\Demo_chapter9\BlazingTrails\BlazingTrails.Shared\obj\Debug\net6.0\BlazingTrails.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Binh\Source\repos\BlazzorDemo\Demo_chapter9\BlazingTrails\BlazingTrails.Shared\obj\Debug\net6.0\BlazingTrails.Shared.AssemblyInfoInputs.cache
+C:\Users\Binh\Source\repos\BlazzorDemo\Demo_chapter9\BlazingTrails\BlazingTrails.Shared\obj\Debug\net6.0\BlazingTrails.Shared.AssemblyInfo.cs
+C:\Users\Binh\Source\repos\BlazzorDemo\Demo_chapter9\BlazingTrails\BlazingTrails.Shared\obj\Debug\net6.0\BlazingTrails.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Binh\Source\repos\BlazzorDemo\Demo_chapter9\BlazingTrails\BlazingTrails.Shared\obj\Debug\net6.0\BlazingTrails.Shared.dll
+C:\Users\Binh\Source\repos\BlazzorDemo\Demo_chapter9\BlazingTrails\BlazingTrails.Shared\obj\Debug\net6.0\refint\BlazingTrails.Shared.dll
+C:\Users\Binh\Source\repos\BlazzorDemo\Demo_chapter9\BlazingTrails\BlazingTrails.Shared\obj\Debug\net6.0\BlazingTrails.Shared.pdb
+C:\Users\Binh\Source\repos\BlazzorDemo\Demo_chapter9\BlazingTrails\BlazingTrails.Shared\obj\Debug\net6.0\ref\BlazingTrails.Shared.dll
