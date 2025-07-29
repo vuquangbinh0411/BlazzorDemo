@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BlazingTrails",
+    "\\BlazingTrails\\BlazingTrails.Api",
+    "\\BlazingTrails\\BlazingTrails.Api\\Features",
+    "\\BlazingTrails\\BlazingTrails.Api\\Persistence",
+    "\\BlazingTrails\\BlazingTrails.Api\\Persistence\\Data",
+    "\\BlazingTrails\\BlazingTrails.Shared",
+    "\\BlazingTrails\\BlazingTrails.Shared\\Features",
+    "\\BlazingTrails\\BlazingTrails.Shared\\Features\\Home",
+    "\\BlazingTrails\\BlazingTrails.Shared\\Features\\ManageTrails"
+  ],
+  "SelectedNode": "\\BlazingTrails\\BlazingTrails.sln",
+  "PreviewInSolutionExplorer": false
+}
